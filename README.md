@@ -32,7 +32,7 @@ pip install Flask
 
 6. Start the app
 ```
-export FLASK_APP=readability.py
+export FLASK_APP=murakami.py
 flask run
 ```
 It should say:
