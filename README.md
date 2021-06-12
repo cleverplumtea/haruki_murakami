@@ -2,6 +2,7 @@
 
 # Requirements
 Python 3.6 or above
+
 Flask
 
 # Instructions
@@ -39,5 +40,6 @@ It should say:
 
 Open the above link in your browser and input some text!
 
-#Help
+# Help
 https://code.visualstudio.com/docs/python/tutorial-flask
+https://flask.palletsprojects.com/en/2.0.x/installation/
