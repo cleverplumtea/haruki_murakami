@@ -1,7 +1,7 @@
 # Murakami
 Challenge #2: Word Count Challenge
 
-<img width="1000" height="500" alt="Screen Shot 2021-06-12 at 2 23 08 AM" src="https://user-images.githubusercontent.com/61565989/121767272-36e2e500-cb25-11eb-9b68-0f776f12f229.png">
+<img width="500" height="250" alt="Screen Shot 2021-06-12 at 2 23 08 AM" src="https://user-images.githubusercontent.com/61565989/121767272-36e2e500-cb25-11eb-9b68-0f776f12f229.png">
 
 # Description
 A Python-Flask web app which analyzes text and provides character, word, sentence, paragraph, and bigram count.
