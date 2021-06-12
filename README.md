@@ -1,4 +1,11 @@
-# Challenge #2: Word Count Challenge
+# Murakami
+Challenge #2: Word Count Challenge
+
+# Description
+A Python-Flask web app which analyzes text and provides character, word, sentence, paragraph, and bigram count.
+
+If the input text is more than 100 words the app also provides a rough estimate of the reading grade level based on the Coleman-Liau Index:
+https://en.wikipedia.org/wiki/Coleman%E2%80%93Liau_index
 
 # Requirements
 Python 3.6 or above
