@@ -1,8 +1,5 @@
-# Challenge #2: Word Count Challenge
-
 # Requirements
 Python 3.6 or above
-
 Flask
 
 # Instructions
